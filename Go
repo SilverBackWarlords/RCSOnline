@@ -1,0 +1,1 @@
+[![Microsoft Defender For Devops](https://github.com/SilverBackWarlords/RCSOnline/actions/workflows/defender-for-devops.yml/badge.svg)](https://github.com/SilverBackWarlords/RCSOnline/actions/workflows/defender-for-devops.yml)
